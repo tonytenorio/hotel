@@ -4,7 +4,7 @@ Sistemas para Reservas de Hotel.
 
 > Note: All names, images, branding, icons, and text used in the making of this are fictional and only used to demo.
 
-Check out the live demo here [https://tonytenorio.github.io/travel-agency/](https://tonytenorio.github.io/travel-agency/)
+Check out the live demo here [https://tonytenorio.github.io/hotel/.](https://tonytenorio.github.io/hotel/.)
 
 Libraries used:
 
